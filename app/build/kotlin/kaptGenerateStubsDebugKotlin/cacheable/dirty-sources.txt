@@ -1,0 +1,8 @@
+C:\Users\shara\Downloads\Projects\WallScanner3D\app\src\main\java\com\wallscanner\pro\ml\AdvancedWallDetector.kt
+C:\Users\shara\Downloads\Projects\WallScanner3D\app\src\main\java\com\wallscanner\pro\reconstruction\RoomReconstructor.kt
+C:\Users\shara\Downloads\Projects\WallScanner3D\app\src\main\java\com\wallscanner\pro\ui\ModelViewerActivity.kt
+C:\Users\shara\Downloads\Projects\WallScanner3D\app\src\main\java\com\wallscanner\pro\export\ModelExporter.kt
+C:\Users\shara\Downloads\Projects\WallScanner3D\app\src\main\java\com\wallscanner\pro\model\Models.kt
+C:\Users\shara\Downloads\Projects\WallScanner3D\app\src\main\java\com\wallscanner\pro\ml\ElementClassifier.kt
+C:\Users\shara\Downloads\Projects\WallScanner3D\app\src\main\java\com\wallscanner\pro\rendering\Advanced3DRenderer.kt
+C:\Users\shara\Downloads\Projects\WallScanner3D\app\src\main\java\com\wallscanner\pro\ui\MainActivity.kt
